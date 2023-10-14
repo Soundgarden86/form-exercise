@@ -32,4 +32,13 @@ button {
 
 button:hover {
     background-color: rgb(31, 5, 95);
+} 
+
+.form-control-inline {
+    display: flex;
+}
+
+.form-control-inline input {
+    width: auto;
+    margin-right: 0.5rem;
 }
